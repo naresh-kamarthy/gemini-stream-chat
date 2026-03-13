@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Stream Chat",
+  "description": "A React web application for streaming AI responses with a typing animation, built with Tailwind CSS and the Gemini API. Uses `uuid` for unique message identifiers.",
+  "requestFramePermissions": []
+}
